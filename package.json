@@ -1,24 +1,24 @@
 {
-  "name": "swagger-tools",
-  "version": "0.10.1",
+  "name": "swagger-tools-DV",
+  "version": "0.0.1",
   "description": "Various tools for using and integrating with Swagger.",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/gulp/bin/gulp.js"
   },
   "author": {
-    "name": "Jeremy Whitlock",
-    "email": "jwhitlock@apache.org",
-    "url": "https://github.com/whitlockjc"
+    "name": "D V",
+    "email": "dmitry.vanin@monterosa.co.uk",
+    "url": "https://github.com/DVMonterosa"
   },
   "bugs": {
-    "url": "https://github.com/apigee-127/swagger-tools/issues"
+    "url": "https://github.com/DVMonterosa/swagger-tools/issues"
   },
-  "homepage": "https://github.com/apigee-127/swagger-tools",
+  "homepage": "https://github.com/DVMonterosa/swagger-tools",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/apigee-127/swagger-tools.git"
+    "url": "https://github.com/DVMonterosa/swagger-tools"
   },
   "keywords": [
     "api",

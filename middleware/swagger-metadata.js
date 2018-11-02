@@ -45,7 +45,7 @@ var textBodyParserOptions = {
   type: '*/*'
 };
 
-var jsonBodyParser = bp.json({limit: '5mb'});
+var jsonBodyParser = bp.json({limit: '20mb'});
 var parseQueryString = mHelpers.parseQueryString;
 var queryParser = function (req, res, next) {
   if (_.isUndefined(req.query)) {
